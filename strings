@@ -1,0 +1,4 @@
+println("Good day to you!!")
+var myvariable = "Good " + "Morning"
+var myvalue = "Good " + "Morning"
+"Good " + "Morning"

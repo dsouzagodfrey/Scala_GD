@@ -1,0 +1,9 @@
+Go to C:\Spark\
+Lauch Spark using command - spark-shell
+
+to load programs-
+1) cd C:\Spark\gd_programs
+2) spark-shell
+3) :load my_first_program
+
+ctrl l
