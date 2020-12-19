@@ -1,1 +1,2 @@
 var array1 = Array(1,2,3,4,5)
+var array2 = Array(1,2,3,)
