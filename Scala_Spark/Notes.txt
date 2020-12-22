@@ -9,3 +9,8 @@ to load programs-
 3) :load my_first_program
 
 ctrl l
+
+https://grouplens.org/datasets/movielens/
+
+
+https://www.scala-lang.org/download/
