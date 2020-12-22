@@ -1,4 +1,4 @@
-val even_numbers = List(2, 4, 6, 8, 10)
+var even_numbers = List(2, 4, 6, 8, 10)
 //val another_list = List(2, 100.1, "StringA")
 even_numbers(1)
 even_numbers(1) + even_numbers(2)
