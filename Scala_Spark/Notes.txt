@@ -1,5 +1,8 @@
 https://stackoverflow.com/questions/2712877/difference-between-array-and-list-in-scala
 https://atom.io/
+http://spark.apache.org/docs/latest/
+http://spark.apache.org/docs/latest/sql-programming-guide.html
+http://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/Dataset.html
 
 Go to C:\Spark\
 Lauch Spark using command - spark-shell
