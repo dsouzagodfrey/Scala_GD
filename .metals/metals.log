@@ -355,3 +355,34 @@ WARN  no build tool detected in workspace 'C:\Spark\Scala_GD'. The most common c
 WARN  no build tool detected in workspace 'C:\Spark\Scala_GD'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\DataFrame_Operations.scala
 WARN  no build target: 
+INFO  time: initialize in 0.55s
+WARN  no build tool detected in workspace 'C:\Spark\Scala_GD'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\DataFrame_Operations.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.27s
+WARN  no build tool detected in workspace 'C:\Spark\Scala_GD'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\GroupBy_and_Agg.scala
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\GroupBy_and_Agg.scala
+WARN  no build target: 
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\GroupBy_and_Agg.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.26s
+WARN  no build tool detected in workspace 'C:\Spark\Scala_GD'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\MissingData.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals
+INFO  time: initialize in 0.25s
+WARN  no build tool detected in workspace 'C:\Spark\Scala_GD'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\Dates_and_Timestamps.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\Dates_and_Timestamps.scala
+WARN  no build target: 
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\Dates_and_Timestamps.scala
+WARN  no build target: 
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\Dates_and_Timestamps.scala
+WARN  no build target: 
+WARN  no build target: C:\Spark\Scala_GD\Spark DataFrames\Dates_and_Timestamps.scala
+WARN  no build target: 
+INFO  shutting down Metals
